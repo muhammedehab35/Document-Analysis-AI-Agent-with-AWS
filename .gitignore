@@ -1,0 +1,35 @@
+# keys
+Ari_accessKeys.csv
+huggingface-token.txt
+
+# folders
+.venv
+app_files
+keys
+models
+old_documents
+documents
+faiss_index
+
+# files
+*.safetensors
+*.pth
+*.model
+*.ipynb
+*.pyc
+*.pkl
+*.pth
+*.pt
+*.zip
+*.tar.gz
+*.whl
+
+output.txt
+
+# other
+__pycache__/
+*.DS_Store
+.env
+.venv/
+.git/
+.cache/

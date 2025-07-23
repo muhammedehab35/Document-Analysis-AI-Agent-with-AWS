@@ -1,0 +1,16 @@
+torch
+transformers
+boto3
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+hf_xet
+llama-cpp-python # for models in .bin format
+pypdf # for pdfs in python
+
+#streamlit
+#safetensors #for models in .safetensors format
+#chromadb 
+#llama-index

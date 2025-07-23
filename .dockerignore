@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.pt
+*.zip
+*.tar.gz
+*.whl
+.env
+.venv/
+.git/
+.cache/
